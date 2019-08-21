@@ -32,8 +32,8 @@ class SuperBallPlugin extends PluginBase implements Listener
             );
             $ball->setOwningEntity($entity->getOwningEntity());
 
-            $entity->close();
             $ball->spawnToAll();
+            $entity->close();
         }
     }
 }
