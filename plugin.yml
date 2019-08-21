@@ -1,0 +1,8 @@
+name: SuperBall
+main: Deceitya\SuperBall\SuperBallPlugin
+version: 1.0.0
+api: 3.9.0
+load: POSTWORLD
+author: deceitya
+description: スーパーボールと化したYKDM先輩
+website: https://github.com/deceitya/SuperBall
